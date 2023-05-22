@@ -8,7 +8,13 @@
 ## ```Buy Me Coffe☕```
 - [`SAWERIA`](https://saweria.co/dhilxd)
 ## ```My Stats```
+<p align="center"><img src="https://www.codewars.com/users/fadhilxd/badges/large"/><br /><br />
 
+
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhilxd&layout=compact&theme=monokai&langs_count=12"/><br />
+
+</p>
 
 
 ## ```Connect with me```
