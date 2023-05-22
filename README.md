@@ -7,6 +7,10 @@
 - ```🏠I live in Indonesia, Sumatra```
 ## ```Buy Me Coffe☕```
 - [`SAWERIA`](https://saweria.co/dhilxd)
+## ```My Stats```
+
+
+
 ## ```Connect with me```
 
 <p align="center">
@@ -18,3 +22,4 @@
   <a href="https://t.me/fadhilxd"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
 
 </p>
+
