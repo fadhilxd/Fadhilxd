@@ -1,6 +1,6 @@
 ## ```FadhilXD```
 
-  <img src="https://github.com/fadhilxd.png" />
+<p align="center"><img src="https://github.com/fadhilxd.png"/><br /><br />
 
 - ```🎫 My Name Is Fadhil```
 - ```👦I'm 15 Years```
